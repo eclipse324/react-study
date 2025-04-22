@@ -1,0 +1,9 @@
+.section {
+    padding: 20px;
+}
+
+.input-field {
+    margin-left: 4px;
+    font-size: 12px;
+    padding: 2px 4px;
+}
